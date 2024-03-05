@@ -15,3 +15,25 @@ estrategy-design-pattern/src/main/java/com/designpattern/strategydesignpattern/B
 dstrategy-design-pattern/src/main/java/com/designpattern/strategydesignpattern/MergeSortStrategy.java,1/e/1e965003e78d7e73a141800fc9f2d307cfe58987
 ”
 dstrategy-design-pattern/src/main/java/com/designpattern/strategydesignpattern/QuickSortStrategy.java,d/e/de92332a6edb094f8a633a635f5f681c5177b09c
+T
+$observer-design-pattern/build.gradle,3/2/32de680ae65f2a65f3029a98d5ed9ac1962997eb
+£
+sobserver-design-pattern/src/main/java/com/designpattern/observerdesignpattern/ObserverDesignPatternApplication.java,c/3/c37be9c73d73161ab46eaf1503eb28c462c43b24
+
+]observer-design-pattern/src/main/java/com/designpattern/observerdesignpattern/Observable.java,8/e/8e000837ec2df6fbc024a1a4aafa0766807473cc
+W
+'observer-design-pattern/settings.gradle,0/a/0aa9d71ac214c3d2843f89dc0513a90ad723943a
+S
+#observer-design-pattern/gradlew.bat,8/c/8c5970f1ffc6b404205551e856883452ca16baa4
+O
+observer-design-pattern/gradlew,3/6/362990ced3e366a76dacf7e4667c40afdeb8a1a5
+”
+dobserver-design-pattern/src/main/java/com/designpattern/observerdesignpattern/WeatherObservable.java,f/1/f126d29a613348521fa1aacfa7f5b2a93e5c8429
+‹
+[observer-design-pattern/src/main/java/com/designpattern/observerdesignpattern/Observer.java,6/3/63205aeece4e9fb8e1104333936174a85cdd5b9f
+‘
+aobserver-design-pattern/src/main/java/com/designpattern/observerdesignpattern/WeatherStation.java,f/7/f74a99dad24e3cde17dfb80bc9edac6e633701f3
+
+_observer-design-pattern/src/main/java/com/designpattern/observerdesignpattern/PhoneDisplay.java,e/c/ecf316a649cd57b3c241113c725b000697c10614
+Œ
+\observer-design-pattern/src/main/java/com/designpattern/observerdesignpattern/TvDisplay.java,c/9/c9ee3d57392d5c37851fee033e7131409988696c
