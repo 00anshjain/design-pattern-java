@@ -6,6 +6,7 @@ public class Url {
     private String port;
     private String pathParam;
     private String queryParam;
+
     private Url(UrlBuilder urlBuilder) {
         this.protocol = urlBuilder.protocol;
         this.hostName = urlBuilder.hostName;
@@ -13,6 +14,7 @@ public class Url {
         this.pathParam = urlBuilder.pathParam;
         this.queryParam = urlBuilder.queryParam;
     }
+
     @Override
     public String toString() {
         return "Url{" +
@@ -30,22 +32,27 @@ public class Url {
         private String port;
         private String pathParam;
         private String queryParam;
+
         public UrlBuilder protocol(String protocol) {
             this.protocol = protocol;
             return this;
         }
+
         public UrlBuilder hostName(String hostName) {
             this.hostName = hostName;
             return this;
         }
+
         public UrlBuilder port(String port) {
             this.port = port;
             return this;
         }
+
         public UrlBuilder pathParam(String pathParam) {
             this.pathParam = pathParam;
             return this;
         }
+
         public UrlBuilder queryParam(String queryParam) {
             this.queryParam = queryParam;
             return this;
