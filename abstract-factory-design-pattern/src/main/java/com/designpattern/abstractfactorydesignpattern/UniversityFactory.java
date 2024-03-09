@@ -10,5 +10,5 @@ public abstract class UniversityFactory {
         return new PrivateUniversityFactory();
     }
 
-    abstract public College getCollege(String branch);
+    public abstract College getCollege(String branch);
 }

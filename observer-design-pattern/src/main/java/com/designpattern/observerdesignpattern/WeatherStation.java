@@ -6,9 +6,10 @@ import java.util.List;
 public class WeatherStation implements WeatherObservable {
     List<Observer> observerList = new ArrayList<>();
     private String weather;
+
     @Override
     public void addObserver(Observer observer) {
-        if(!observerList.contains(observer)) {
+        if (!observerList.contains(observer)) {
             observerList.add(observer);
         }
     }
@@ -20,7 +21,7 @@ public class WeatherStation implements WeatherObservable {
 
     @Override
     public void notifyObservers() {
-        for(Observer observer : observerList) {
+        for (Observer observer : observerList) {
             observer.update(weather);
         }
     }

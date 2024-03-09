@@ -1,7 +1,5 @@
 package com.designpattern.strategydesignpattern;
 
-import org.springframework.beans.factory.annotation.Autowired;
-
 import java.util.List;
 
 
@@ -11,6 +9,7 @@ public class SortingContext {
     public SortingContext(SortingStrategy sortingStrategy) {
         this.sortingStrategy = sortingStrategy;
     }
+
     public void setSortingStrategy(SortingStrategy sortingStrategy) {
         this.setSortingStrategy(sortingStrategy);
     }
