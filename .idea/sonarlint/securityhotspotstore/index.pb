@@ -93,3 +93,21 @@ bsingleton-design-pattern/src/main/java/com/designpattern/singletondesignpattern
 csingleton-design-pattern/src/main/java/com/designpattern/singletondesignpattern/EagerSingleton.java,5/f/5f8709e9003d2c0531df9168cec741ea6e40a712
 ™
 isingleton-design-pattern/src/main/java/com/designpattern/singletondesignpattern/MultithreadSingleton.java,4/8/485b9ddb4b686d070a6648173ebc1f8b27beefb3
+S
+#adapter-design-pattern/build.gradle,4/c/4c88024d9e4b09e72dcb8a115f7728a4a6f1d654
+ 
+padapter-design-pattern/src/main/java/com/designpattern/adapterdesignpattern/AdapterDesignPatternApplication.java,8/a/8a225593f33b71f3959a20009a4f36bd2696657f
+…
+Uadapter-design-pattern/src/main/java/com/designpattern/adapterdesignpattern/Item.java,a/3/a39061ee8d42e8b9efa8f2baa9bd716cf6fa3d68
+‰
+Yadapter-design-pattern/src/main/java/com/designpattern/adapterdesignpattern/FoodItem.java,5/d/5da39623e06036c1231112434acbee6660e74a23
+‹
+[adapter-design-pattern/src/main/java/com/designpattern/adapterdesignpattern/SwiggyCart.java,4/0/400aa507e55ea15b1603601df336c1f7f01aecba
+Œ
+\adapter-design-pattern/src/main/java/com/designpattern/adapterdesignpattern/GroceryItem.java,7/3/73263a3f79b7f7017dabd564b00ed2dc774f187b
+
+_adapter-design-pattern/src/main/java/com/designpattern/adapterdesignpattern/GroceryProduct.java,2/9/291c3e4c88cd9bd5672dbf1b0fef15f1427081e1
+ˆ
+Xadapter-design-pattern/src/main/java/com/designpattern/adapterdesignpattern/Grocery.java,5/8/586b505e7f1d4bfc54ad1fbc22259cfb7de453ac
+“
+cadapter-design-pattern/src/main/java/com/designpattern/adapterdesignpattern/GroceryItemAdapter.java,0/a/0a01996039e9f0ec0862c72de5279e8139dde15e
