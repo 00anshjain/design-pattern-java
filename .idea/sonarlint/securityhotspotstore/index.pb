@@ -81,3 +81,15 @@ zabstract-factory-design-pattern/src/main/java/com/designpattern/abstractfactory
 {abstract-factory-design-pattern/src/main/java/com/designpattern/abstractfactorydesignpattern/PrivateEngineeringCollege.java,1/e/1e48bcf62edac9a593a2601d21853aa0cac90bdd
 §
 wabstract-factory-design-pattern/src/main/java/com/designpattern/abstractfactorydesignpattern/PrivateMedicalCollege.java,5/8/58dee026d91489a634d8f00e21c16e4b2d1d747c
+U
+%singleton-design-pattern/build.gradle,b/3/b3c174aa83e226c12767fe29aaa206772692340a
+¦
+vsingleton-design-pattern/src/main/java/com/designpattern/singletondesignpattern/SingletonDesignPatternApplication.java,9/9/99ab2f5264840ac0a02b95fa88d3e56e550e4b3e
+ 
+psingleton-design-pattern/src/main/java/com/designpattern/singletondesignpattern/LazyInitializationSingleton.java,3/0/308ce7a914f5055e316d58dba7c5f6e85354734e
+’
+bsingleton-design-pattern/src/main/java/com/designpattern/singletondesignpattern/LazySingleton.java,c/0/c0eabdd5e0ce00a3cbb4da271a45f3d8043946da
+“
+csingleton-design-pattern/src/main/java/com/designpattern/singletondesignpattern/EagerSingleton.java,5/f/5f8709e9003d2c0531df9168cec741ea6e40a712
+™
+isingleton-design-pattern/src/main/java/com/designpattern/singletondesignpattern/MultithreadSingleton.java,4/8/485b9ddb4b686d070a6648173ebc1f8b27beefb3
