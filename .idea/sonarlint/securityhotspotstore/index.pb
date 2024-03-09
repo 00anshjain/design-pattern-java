@@ -111,3 +111,9 @@ _adapter-design-pattern/src/main/java/com/designpattern/adapterdesignpattern/Gro
 Xadapter-design-pattern/src/main/java/com/designpattern/adapterdesignpattern/Grocery.java,5/8/586b505e7f1d4bfc54ad1fbc22259cfb7de453ac
 “
 cadapter-design-pattern/src/main/java/com/designpattern/adapterdesignpattern/GroceryItemAdapter.java,0/a/0a01996039e9f0ec0862c72de5279e8139dde15e
+S
+#builder-design-pattern/build.gradle,1/e/1edc732581f1854a9209224bee9fb0694aff370b
+„
+Tbuilder-design-pattern/src/main/java/com/designpattern/builderdesignpattern/Url.java,2/3/23310ec8ef6cb7385f8a9abc34a7b77e9f959775
+ 
+pbuilder-design-pattern/src/main/java/com/designpattern/builderdesignpattern/BuilderDesignPatternApplication.java,0/d/0dc2c4b36156f9b791144d263a5bc41b024da5e3

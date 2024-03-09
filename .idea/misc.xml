@@ -4,6 +4,7 @@
   <component name="FrameworkDetectionExcludesConfiguration">
     <file type="web" url="file://$PROJECT_DIR$/abstract-factory-design-pattern" />
     <file type="web" url="file://$PROJECT_DIR$/adapter-design-pattern" />
+    <file type="web" url="file://$PROJECT_DIR$/builder-design-pattern" />
     <file type="web" url="file://$PROJECT_DIR$/decorator-design-pattern" />
     <file type="web" url="file://$PROJECT_DIR$/factory-design-pattern" />
     <file type="web" url="file://$PROJECT_DIR$/observer-design-pattern" />
