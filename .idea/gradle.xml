@@ -12,6 +12,14 @@
         </option>
       </GradleProjectSettings>
       <GradleProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$/factory-design-pattern" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/factory-design-pattern" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
         <option name="externalProjectPath" value="$PROJECT_DIR$/observer-design-pattern" />
         <option name="modules">
           <set>
